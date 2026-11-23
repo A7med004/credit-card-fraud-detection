@@ -1,0 +1,17 @@
+# Raw datasets are intentionally excluded from version control.
+data/
+
+# Python cache and local notebook checkpoints.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and temporary artifacts.
+.venv/
+venv/
+tmp/
+
+# OS and editor files.
+.DS_Store
+Thumbs.db
+.vscode/
